@@ -31,4 +31,4 @@
 - Configurar dados de conexão do banco de dados H2
 - Fazer seed do banco de dados
 
- [![Link do video de apresentação do projeto DSmeta](https://imgur.com/a/LJirHpY)](https://www.youtube.com/watch?v=DWlRN1ju4Yk)
+ [![Link do video de apresentação do projeto DSmeta](https://i.imgur.com/IkIE55s.jpg)](https://www.youtube.com/watch?v=DWlRN1ju4Yk)
