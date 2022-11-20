@@ -1,4 +1,4 @@
-# Projetos WEB
+# Projeto DSmeta
 
 [DSmeta - Pagina web](https://dsmeta-tiagopimentel.netlify.app/)
 
