@@ -17,7 +17,16 @@
   - `IntelliCode`
   - `ESLint`
   - `JSX HTML <tags/>`
+- Postman
+- Heroku CLI
 
 ## Passo: criar projeto ReactJS
 
 ![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/pastas-dsmeta.png)
+
+### Passo: banco de dados
+
+- Criar entidade Sale
+- Fazer mapeamento objeto-relacional (JPA)
+- Configurar dados de conexão do banco de dados H2
+- Fazer seed do banco de dados
