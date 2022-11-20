@@ -1,10 +1,14 @@
 # Projetos WEB
 
-[DSmeta - Pagina web](https://dsmeta-tiagopimentel.netlify.app/)
+[Projeto 1 - DSmeta - Pagina web](https://dsmeta-tiagopimentel.netlify.app/)
 
 - App de consulta de vendas, no qual você poderá buscar vendas em um dado intervalo de datas, e poderá notificar via SMS os dados dos melhores vendedores. Vamos construir o back end com Java e Spring, e o front end com React.
 
 [Link do video de apresentação do projeto](https://www.youtube.com/watch?v=DWlRN1ju4Yk)
+
+# Projetos Python
+
+[Projeto 1 - Play Snack](https://www.youtube.com/watch?v=EF6VLDhPS_M)
 
 # Projetos Power BI
 
